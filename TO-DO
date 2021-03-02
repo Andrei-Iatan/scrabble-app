@@ -1,0 +1,5 @@
+center the letter in the hand component (no clue why flex-box align and justify center not working)
+add a button that randomly adds missing letters in hand(up to 7 letters)
+add a reshuffle button for letters in hand
+add a reset button
+add joker letter
